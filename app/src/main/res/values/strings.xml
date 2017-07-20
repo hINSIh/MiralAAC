@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiralAAC</string>
+
+    <!-- activity_main.xml -->
+    <string name="app_title">밀알 AAC</string>
+
+    <string name="menu_action">동작\n표현</string>
+    <string name="menu_food">음식</string>
+    <string name="menu_place">장소</string>
+    <string name="menu_person">인물</string>
+    <string name="menu_personal">신변</string>
+    <string name="menu_daily_routine">일과</string>
+    <string name="menu_leisure">여가</string>
+    <string name="menu_favorites">자주\n쓰는 말</string>
+</resources>
