@@ -1,33 +1,42 @@
 package com.miral.aac;
 
-import android.annotation.TargetApi;
+import android.content.Intent;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
-import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 
-import java.util.Locale;
+public class MainActivity extends AppCompatActivity {
 
-public class MainActivity extends AppCompatActivity implements TextToSpeech.OnInitListener {
-
-    TextToSpeech speech;
+    private Button[] btnMenus;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        speech = new TextToSpeech(this, this);
+        btnMenus = new Button[]{
+                (Button)findViewById(R.id.menu_action)
+        };
     }
 
-    @Override
-    @TargetApi(21)
-    public void onInit(int status) {
-        for (TextToSpeech.EngineInfo engineInfo : speech.getEngines()) {
-            Log.d("insi", engineInfo.label + ", " + engineInfo.name);
-        }
+    public void openMenu(View v){
+        Log.i("Nyyynyyy", "Open Menu");
+        Intent menuIntent = new Intent(MainActivity.this, MenuActivity.class);
 
-        speech.setLanguage(Locale.KOREA);
-        speech.speak("안녕하세요", TextToSpeech.QUEUE_ADD, null, null);
+        String menuName = ((Button) v).getText().toString();
+        int menuColor = ((ColorDrawable)v.getBackground()).getColor();
+
+        menuName = menuName.replace('\n', ' ');
+
+        Log.i("Nyyynyyy", menuName + " : " + menuColor);
+
+        menuIntent.putExtra("MENU_NAME", menuName);
+        menuIntent.putExtra("MENU_COLOR", menuColor);
+        startActivity(menuIntent);
     }
 }
+
+

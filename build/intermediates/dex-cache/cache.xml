@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\2107635548d64b45945ee40c3b727f55fa4a9ee7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ec5d88a867b842b3ed7de12d0281d837e3a80ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\0fc550467166264e0008333af58ec4d52ecac26a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73054f43a8908b11f69391d86b3ab6549277404f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\990447f1d053aca5f5a4d25c830957f9adc3136c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b31f3a023e3b3224a8b8a4351678c2bc00f35be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\e8b3f4b8ae531bad01fd5367ef6814fbbba3576d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87973bb35c4c2c605df306c11daab537c6b32a8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\721d3b80ba23c0e26498971aaa94de2972d9342f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41d8b5370c1fd7bd5b6cf231830ccccd11661dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ea8f1f20d08946b918b8c0548135dd117172c78">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7525d03087aef58ca8fd8d44ea5c7865fdf6794b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\93441f1fbf2689f50180527f432236d05217a5ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88ddf11a20e2611e3f711887bbd0f40725a38c4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_7029bb8817fc62e41ec942bdb630bb5b31fb47e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\e76936f115df4a4f9e413fdc1b0fbc2e221ebc8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c921ab629609d27a452ca0082ef1475a13d3486\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\590c6484fb2178d3475605a4c5c3961fe61f042e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c850dbe0b8f818ccf5540bb27db8adc55cf29c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec665d1696e9a99c4a5cd9e9482eb18acc5b9d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\41c8e5ddfb842b9663c1d20982e2b292803c47a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f156a8fbde432e3430847e83bd8815b3085cb63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b2e75e2aa9da4c3a1d683a066aa138a50059e164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\1a858fce744d50366b88026439e2f65abb85f939\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fd9683bf82acabc620d64cb9c78febf0f75e89e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\c9d7df9904c454e24ae71e05cb73d109b27b529b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a151ca1a9da3c3d7f2f9c70eed7ffcad1cdb2199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\38911b2b85d8d7586ac99075df9ba5cf4f64d3fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be4c1f5ddac54dc8a54836f62129a987a2c7d71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nyyyn\.android\build-cache\64ac3a2edf596d0085c44b0f57cf12e6dd8b1e2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Programming\Git Projects\MiralAAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04bb253ea1815d4a8679954e84a519bfdaecb4d5\classes.dex" />
+    </item>
+
+</items>
